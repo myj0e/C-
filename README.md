@@ -1,2 +1,4 @@
 # C-
-用来分析C语言源码中定义的函数和函数参数的关系
+To analyze the relationship of function names and variable parameter.
+You need to move the C code source document to the same folder with BigData.py, then rename your source code "input.c"
+Run it, you'll get a text document called "output.csv"
