@@ -48,7 +48,7 @@ text=''
 for i in para:
     text=text+i+','
 text=text[:-1]
-file=open("output.txt","a+")
+file=open("output.csv","a+")
 file.write(','+text+'\n')
 for i in sum:
     count=[]
